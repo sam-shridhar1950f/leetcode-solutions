@@ -2,7 +2,7 @@ def rotateArray(nums, k):
     x = None
 
     if k < 0 or len(nums) < 1:
-        return print(x)
+        return x
 
 
     if k > len(nums):

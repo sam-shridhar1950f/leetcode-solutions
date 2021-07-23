@@ -28,4 +28,4 @@ function countString(string){
 
 }
 
-countString("Pebe")
+countString("idk")

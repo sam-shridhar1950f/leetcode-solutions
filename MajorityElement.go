@@ -1,3 +1,5 @@
+package solutions
+
 func majorityElement(nums []int) int {
     length := len(nums)
 	major := length / 2
